@@ -27,5 +27,16 @@
   },
   "dependencies": {
     "playwright": "^1.58.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalRacheti/CI-CD-Demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VishalRacheti/CI-CD-Demo/issues"
+  },
+  "homepage": "https://github.com/VishalRacheti/CI-CD-Demo#readme"
 }
