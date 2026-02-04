@@ -2,7 +2,7 @@ name: CD Pipeline
 
 on:
   workflow_run:
-    workflows: ["CI"]   # 👈 must match CI name
+    workflows: ["CI Pipeline"]   # 👈 must match CI name
     types:
       - completed
 
